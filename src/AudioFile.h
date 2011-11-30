@@ -17,8 +17,6 @@
 #include "ofMain.h"
 
 
-//fix bug where drawn before the start high up
-
 class AudioFile
 {
 public:		

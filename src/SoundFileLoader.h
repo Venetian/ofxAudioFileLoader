@@ -18,9 +18,6 @@
 #define FRAMESIZE 512
 
 
-//this does a chromagram analysis and aubio onset analysis
-//held in double matrix and doubleVector respectively
-//these are dynamic vectors, so size set by what's needed for the file
 
 class SoundFileLoader{
 	
@@ -31,10 +28,9 @@ public:
 	void loadLibSndFile(const char *infilename);
 
 	typedef std::vector<double> DoubleVector;
-		typedef std::vector<DoubleVector> DoubleMatrix;
+//	typedef std::vector<DoubleVector> DoubleMatrix;
 
-	//DoubleVector leftAudioSamples;
-	//DoubleMatrix multichannelAudioSamples;
+
 	AudioFile audioHolder;
 	
 	int totalNumberOfFrames;

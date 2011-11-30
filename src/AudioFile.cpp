@@ -91,7 +91,6 @@ void AudioFile::drawAudioVectorSamples(double startTimeSample, double endTimeSam
 	samplesString += " , \n";
 	
 	
-	//info string
 	string textString;
 	textString = ofToString(playPosition, 1);
 	ofDrawBitmapString(textString, 20, 20);
@@ -116,42 +115,4 @@ double AudioFile::getPosition(int index){
 		return screenHeight /2 ;
 }	
 
-
-/*
-void AudioFile::drawAudioVectorSamples(double startTimeSample, double endTimeSample){
-	
-	double screenHeight = ofGetHeight() ;
-	double screenWidth = ofGetWidth(); 
-	
-	ofSetColor(255,0,0);
-	double numberOfSamples = endTimeSample - startTimeSample;
-	double samplesPerPixel = numberOfSamples / screenWidth;
-	
-	double halfHeight = screenHeight/2;
-	
-	string samplesString = "samples: sps " + ofToString(samplesPerPixel, 2);
-	samplesString += ", number of smaplers " + ofToString(numberOfSamples, 2);
-	samplesString += " , \n";
-	
-	int lastSampleIndex = (int) startTimeSample;
-	
-	for (int i = 1;i < screenWidth;i++){// && startTimeSamples + samplesPerPixel * i < endTimeSamples;i += 1){
-		int sampleIndex = (int) (startTimeSample + samplesPerPixel * i);
-		ofLine(i-1, screenHeight - (1-audioVector[sampleIndex])*screenHeight/2.0 , i, screenHeight - (1-audioVector[lastSampleIndex])*screenHeight/2.0);
-		lastSampleIndex = sampleIndex;
-		
-	}
-	//info string
-	string textString;
-	textString = ofToString(playPosition, 1);
-	ofDrawBitmapString(textString, 20, 20);
-	ofDrawBitmapString(samplesString, 20, 60);
-	
-	
-	
-	ofSetColor(0,0,255);
-	ofLine(0, halfHeight, screenWidth, halfHeight);
-	
-}
- */
 

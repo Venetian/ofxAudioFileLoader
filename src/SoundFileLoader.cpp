@@ -13,7 +13,6 @@
 SoundFileLoader::SoundFileLoader(){
 	sfinfo.format = 0;
 	
-	//chromaG = &chromoGramm;
 	
 }
 
