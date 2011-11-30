@@ -1,0 +1,1376 @@
+// !$*UTF8*$!
+{
+	49073230147EB8F700257988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9BE8147EB45300F4B020 /* testApp.h */;
+		name = "testApp.h: 35";
+		rLen = 0;
+		rLoc = 693;
+		rType = 0;
+		vrLen = 467;
+		vrLoc = 499;
+	};
+	49073231147EB8F700257988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9BEE147EB45300F4B020 /* testApp.cpp */;
+		name = "testApp.cpp: 31";
+		rLen = 64;
+		rLoc = 651;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 443;
+	};
+	490732A0147EBCF700257988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9D26147EB81A00F4B020 /* ofPolyline.h */;
+		name = "ofPolyline.h: 10";
+		rLen = 0;
+		rLoc = 163;
+		rType = 0;
+		vrLen = 595;
+		vrLoc = 0;
+	};
+	490732B0147EC15800257988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 490732B1147EC15800257988 /* qm_onset~.cpp */;
+		name = "qm_onset~.cpp: 162";
+		rLen = 0;
+		rLoc = 6398;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 9384;
+	};
+	490732B1147EC15800257988 /* qm_onset~.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = "qm_onset~.cpp";
+		path = "/Users/andrew/hg/qm-livemusiclab/Development/Max/MaxSDK-5.1.6/qm external code/qm.onset~/qm_onset~.cpp";
+		sourceTree = "<absolute>";
+	};
+	490732B3147EC15800257988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497B350A143C5CBC00DB9B73 /* ofxAudioEvent.h */;
+		name = "ofxAudioEvent.h: 16";
+		rLen = 0;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 0;
+	};
+	490732CB147EC33100257988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9B66147EA02800F4B020 /* OnsetDetectionFunction.h */;
+		name = "OnsetDetectionFunction.h: 22";
+		rLen = 0;
+		rLoc = 649;
+		rType = 0;
+		vrLen = 1216;
+		vrLoc = 161;
+	};
+	490732CC147EC33100257988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9B65147EA02800F4B020 /* OnsetDetectionFunction.cpp */;
+		name = "OnsetDetectionFunction.cpp: 182";
+		rLen = 32;
+		rLoc = 4662;
+		rType = 0;
+		vrLen = 1049;
+		vrLoc = 5399;
+	};
+	490732F0147EC53C00257988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9B8E147EA3AC00F4B020 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 416;
+		vrLoc = 0;
+	};
+	49073370147EEE4900257988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49A1BD59147E6AB000D6D264 /* ofxPortaudioSoundStream.cpp */;
+		name = "ofxPortaudioSoundStream.cpp: 186";
+		rLen = 0;
+		rLoc = 4826;
+		rType = 0;
+		vrLen = 793;
+		vrLoc = 1867;
+	};
+	490733F9147EFC6700257988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9B9D147EA47800F4B020 /* ofxAubioOnsetDetection.h */;
+		name = "ofxAubioOnsetDetection.h: 59";
+		rLen = 0;
+		rLoc = 1482;
+		rType = 0;
+		vrLen = 908;
+		vrLoc = 765;
+	};
+	4907C5E3144AF9AF00389066 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4967C0351440FF66002E5629 /* testApp.cpp */;
+		name = "testApp.cpp: 336";
+		rLen = 0;
+		rLoc = 8856;
+		rType = 0;
+		vrLen = 972;
+		vrLoc = 7889;
+	};
+	4907C5E4144AF9AF00389066 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4967C3ED14411C09002E5629 /* anrPortaudioClass.h */;
+		name = "anrPortaudioClass.h: 56";
+		rLen = 0;
+		rLoc = 1380;
+		rType = 0;
+		vrLen = 1197;
+		vrLoc = 675;
+	};
+	491FCBC41448F18600321E3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4967C02A1440FF66002E5629 /* BTrack_mod.h */;
+		name = "BTrack_mod.h: 47";
+		rLen = 0;
+		rLoc = 997;
+		rType = 0;
+		vrLen = 1276;
+		vrLoc = 407;
+	};
+	491FCBC51448F18600321E3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4967C0291440FF66002E5629 /* BTrack_mod.cpp */;
+		name = "BTrack_mod.cpp: 418";
+		rLen = 0;
+		rLoc = 8096;
+		rType = 0;
+		vrLen = 1099;
+		vrLoc = 7615;
+	};
+	491FCBC71448F18600321E3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4967C0331440FF66002E5629 /* LiveAudioAnalysis.h */;
+		name = "LiveAudioAnalysis.h: 131";
+		rLen = 0;
+		rLoc = 3357;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 1864;
+	};
+	493F54C2143F52E300D507C5 /* ofSoundStream.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofSoundStream.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/sound/ofSoundStream.h;
+		sourceTree = "<absolute>";
+	};
+	49421ADA143E2E8B00DBDFAA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497B35A2143C5DD200DB9B73 /* LiveAudioAnalysis.h */;
+		name = "LiveAudioAnalysis.h: 20";
+		rLen = 0;
+		rLoc = 355;
+		rType = 0;
+		vrLen = 735;
+		vrLoc = 3;
+	};
+	49421ADE143E2E8B00DBDFAA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49421ADF143E2E8B00DBDFAA /* RtAudio.h */;
+		rLen = 0;
+		rLoc = 124;
+		rType = 1;
+	};
+	49421ADF143E2E8B00DBDFAA /* RtAudio.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = RtAudio.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/rtAudio/include/RtAudio.h;
+		sourceTree = "<absolute>";
+	};
+	4948645F143C765E006262AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497B358A143C5DD200DB9B73 /* AubioOnsetDetector.cpp */;
+		name = "AubioOnsetDetector.cpp: 57";
+		rLen = 0;
+		rLoc = 1669;
+		rType = 0;
+		vrLen = 1256;
+		vrLoc = 802;
+	};
+	494BCC1214435D7C003E97B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 494BCC1314435D7C003E97B6 /* ofBaseTypes.cpp */;
+		name = "ofBaseTypes.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1401;
+		vrLoc = 0;
+	};
+	494BCC1314435D7C003E97B6 /* ofBaseTypes.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofBaseTypes.cpp;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/types/ofBaseTypes.cpp;
+		sourceTree = "<absolute>";
+	};
+	494BCC1414435D7C003E97B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49991CF71441D47900A64A8E /* ofBaseTypes.h */;
+		name = "ofBaseTypes.h: 137";
+		rLen = 13;
+		rLoc = 3567;
+		rType = 0;
+		vrLen = 1229;
+		vrLoc = 3006;
+	};
+	494BCC1514435D7C003E97B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 495D3AF5143E3355009EC712 /* ofEvents.cpp */;
+		name = "ofEvents.cpp: 168";
+		rLen = 0;
+		rLoc = 3461;
+		rType = 0;
+		vrLen = 930;
+		vrLoc = 2925;
+	};
+	494BCC1614435D7C003E97B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49C0240E143E7EB20098CB70 /* ofEvents.h */;
+		name = "ofEvents.h: 107";
+		rLen = 44;
+		rLoc = 2125;
+		rType = 0;
+		vrLen = 1043;
+		vrLoc = 1629;
+	};
+	494BCC2E14435EBE003E97B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 494BCC2F14435EBE003E97B6 /* ofTrueTypeFont.h */;
+		name = "ofTrueTypeFont.h: 61";
+		rLen = 48;
+		rLoc = 1416;
+		rType = 0;
+		vrLen = 951;
+		vrLoc = 998;
+	};
+	494BCC2F14435EBE003E97B6 /* ofTrueTypeFont.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofTrueTypeFont.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofTrueTypeFont.h;
+		sourceTree = "<absolute>";
+	};
+	4957D7681486910C000BE8AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9B90147EA3AC00F4B020 /* testApp.h */;
+		name = "testApp.h: 104";
+		rLen = 0;
+		rLoc = 2119;
+		rType = 0;
+		vrLen = 827;
+		vrLoc = 154;
+	};
+	4957D7691486910C000BE8AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9B9E147EA47800F4B020 /* ofxAubioOnsetDetection.cpp */;
+		name = "ofxAubioOnsetDetection.cpp: 11";
+		rLen = 0;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 952;
+		vrLoc = 0;
+	};
+	4957D76A1486910C000BE8AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9BA0147EA50900F4B020 /* AubioOnsetDetector.cpp */;
+		name = "AubioOnsetDetector.cpp: 286";
+		rLen = 0;
+		rLoc = 7634;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 0;
+	};
+	4957D7E0148692D1000BE8AC /* AudioFile.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1228, 2528}}";
+			sepNavSelRange = "{534, 0}";
+			sepNavVisRange = "{2912, 885}";
+		};
+	};
+	4957D7E1148692D1000BE8AC /* AudioFile.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 720}}";
+			sepNavSelRange = "{301, 0}";
+			sepNavVisRange = "{0, 627}";
+		};
+	};
+	4957D7E2148692D1000BE8AC /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1137, 592}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 416}";
+		};
+	};
+	4957D7E3148692D1000BE8AC /* SoundFileLoader.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 1408}}";
+			sepNavSelRange = "{1448, 0}";
+			sepNavVisRange = "{0, 703}";
+		};
+	};
+	4957D7E4148692D1000BE8AC /* SoundFileLoader.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 784}}";
+			sepNavSelRange = "{241, 0}";
+			sepNavVisRange = "{25, 672}";
+		};
+	};
+	4957D7E5148692D1000BE8AC /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1316, 9024}}";
+			sepNavSelRange = "{6105, 0}";
+			sepNavVisRange = "{5707, 632}";
+		};
+	};
+	4957D7E6148692D1000BE8AC /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 2128}}";
+			sepNavSelRange = "{1429, 0}";
+			sepNavVisRange = "{906, 741}";
+		};
+	};
+	4957D80D148699B9000BE8AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D80E148699B9000BE8AC /* AubioOnsetDetector.h */;
+		name = "AubioOnsetDetector.h: 13";
+		rLen = 0;
+		rLoc = 204;
+		rType = 0;
+		vrLen = 787;
+		vrLoc = 0;
+	};
+	4957D80E148699B9000BE8AC /* AubioOnsetDetector.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AubioOnsetDetector.h;
+		path = /Users/andrew/GitHub/ofxAubioOnsetDetection/addons/AubioOnsetDetector.h;
+		sourceTree = "<absolute>";
+	};
+	4957D80F148699B9000BE8AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E6148692D1000BE8AC /* testApp.h */;
+		name = "testApp.h: 60";
+		rLen = 0;
+		rLoc = 1250;
+		rType = 0;
+		vrLen = 917;
+		vrLoc = 1090;
+	};
+	4957D812148699B9000BE8AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E2148692D1000BE8AC /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 416;
+		vrLoc = 0;
+	};
+	4957D82114869C86000BE8AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E0148692D1000BE8AC /* AudioFile.cpp */;
+		name = "AudioFile.cpp: 23";
+		rLen = 0;
+		rLoc = 534;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 2912;
+	};
+	4957D82514869CDE000BE8AC /* testApp.cpp:270 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4957D7E5148692D1000BE8AC /* testApp.cpp */;
+		functionName = "testApp::mouseMoved(int x, int y )";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 270;
+		modificationTime = 344366302.8722531;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	4957D83314869D5D000BE8AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E1148692D1000BE8AC /* AudioFile.h */;
+		name = "AudioFile.h: 17";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 627;
+		vrLoc = 0;
+	};
+	4957D86614869F5A000BE8AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E5148692D1000BE8AC /* testApp.cpp */;
+		name = "testApp.cpp: 107";
+		rLen = 0;
+		rLoc = 2634;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 0;
+	};
+	4957D86714869F5A000BE8AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E3148692D1000BE8AC /* SoundFileLoader.cpp */;
+		name = "SoundFileLoader.cpp: 66";
+		rLen = 0;
+		rLoc = 1448;
+		rType = 0;
+		vrLen = 703;
+		vrLoc = 0;
+	};
+	4957D86814869F5A000BE8AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E4148692D1000BE8AC /* SoundFileLoader.h */;
+		name = "SoundFileLoader.h: 18";
+		rLen = 0;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 646;
+		vrLoc = 0;
+	};
+	4957D87014869FAF000BE8AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E4148692D1000BE8AC /* SoundFileLoader.h */;
+		name = "SoundFileLoader.h: 18";
+		rLen = 0;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 25;
+	};
+	495A55F3143E915D00259FEA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497B35A1143C5DD200DB9B73 /* LiveAudioAnalysis.cpp */;
+		name = "LiveAudioAnalysis.cpp: 40";
+		rLen = 14;
+		rLoc = 879;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 733;
+	};
+	495D3AEF143E3355009EC712 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497B3595143C5DD200DB9B73 /* BTrack_mod.h */;
+		name = "BTrack_mod.h: 19";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 746;
+		vrLoc = 30;
+	};
+	495D3AF5143E3355009EC712 /* ofEvents.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofEvents.cpp;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/events/ofEvents.cpp;
+		sourceTree = "<absolute>";
+	};
+	4967C0291440FF66002E5629 /* BTrack_mod.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = BTrack_mod.cpp;
+		path = "/Users/andrew/hg/btrack-protaudio-multiple-input-output/qm_btrack/BTrack_mod.cpp";
+		sourceTree = "<absolute>";
+	};
+	4967C02A1440FF66002E5629 /* BTrack_mod.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = BTrack_mod.h;
+		path = "/Users/andrew/hg/btrack-protaudio-multiple-input-output/qm_btrack/BTrack_mod.h";
+		sourceTree = "<absolute>";
+	};
+	4967C02D1440FF66002E5629 /* OnsetDetectionFunction.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = OnsetDetectionFunction.h;
+		path = "/Users/andrew/hg/btrack-protaudio-multiple-input-output/qm_btrack/OnsetDetectionFunction.h";
+		sourceTree = "<absolute>";
+	};
+	4967C0321440FF66002E5629 /* LiveAudioAnalysis.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = LiveAudioAnalysis.cpp;
+		path = "/Users/andrew/hg/btrack-protaudio-multiple-input-output/src/LiveAudioAnalysis.cpp";
+		sourceTree = "<absolute>";
+	};
+	4967C0331440FF66002E5629 /* LiveAudioAnalysis.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = LiveAudioAnalysis.h;
+		path = "/Users/andrew/hg/btrack-protaudio-multiple-input-output/src/LiveAudioAnalysis.h";
+		sourceTree = "<absolute>";
+	};
+	4967C0351440FF66002E5629 /* testApp.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = testApp.cpp;
+		path = "/Users/andrew/hg/btrack-protaudio-multiple-input-output/src/testApp.cpp";
+		sourceTree = "<absolute>";
+	};
+	4967C0361440FF66002E5629 /* testApp.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = testApp.h;
+		path = "/Users/andrew/hg/btrack-protaudio-multiple-input-output/src/testApp.h";
+		sourceTree = "<absolute>";
+	};
+	4967C3ED14411C09002E5629 /* anrPortaudioClass.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = anrPortaudioClass.h;
+		path = "/Users/andrew/hg/btrack-protaudio-multiple-input-output/portaudioClass/anrPortaudioClass.h";
+		sourceTree = "<absolute>";
+	};
+	4967C437144125DF002E5629 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49D1E7B214405E6D00E20138 /* ofEventUtils.h */;
+		name = "ofEventUtils.h: 54";
+		rLen = 0;
+		rLoc = 1274;
+		rType = 0;
+		vrLen = 1737;
+		vrLoc = 1090;
+	};
+	4967C438144125DF002E5629 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4967C439144125DF002E5629 /* ofSoundStream.cpp */;
+		name = "ofSoundStream.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1094;
+		vrLoc = 2931;
+	};
+	4967C439144125DF002E5629 /* ofSoundStream.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofSoundStream.cpp;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/sound/ofSoundStream.cpp;
+		sourceTree = "<absolute>";
+	};
+	4967C43A144125DF002E5629 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 493F54C2143F52E300D507C5 /* ofSoundStream.h */;
+		name = "ofSoundStream.h: 25";
+		rLen = 0;
+		rLoc = 888;
+		rType = 0;
+		vrLen = 1362;
+		vrLoc = 256;
+	};
+	4967C43B144125DF002E5629 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49F1EFBA143F473B00F89F48 /* ofRtAudioSoundStream.cpp */;
+		name = "ofRtAudioSoundStream.cpp: 9";
+		rLen = 0;
+		rLoc = 155;
+		rType = 0;
+		vrLen = 1236;
+		vrLoc = 0;
+	};
+	4967C43C144125DF002E5629 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49F1EFB6143F473B00F89F48 /* ofRtAudioSoundStream.h */;
+		name = "ofRtAudioSoundStream.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1097;
+		vrLoc = 93;
+	};
+	4967C451144125DF002E5629 /* ofPASoundStream.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofPASoundStream.cpp;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/sound/ofPASoundStream.cpp;
+		sourceTree = "<absolute>";
+	};
+	4967C45B144125DF002E5629 /* ofTypes.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofTypes.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/types/ofTypes.h;
+		sourceTree = "<absolute>";
+	};
+	4967C47E144127D0002E5629 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4967C45B144125DF002E5629 /* ofTypes.h */;
+		name = "ofTypes.h: 96";
+		rLen = 0;
+		rLoc = 1957;
+		rType = 0;
+		vrLen = 905;
+		vrLoc = 1679;
+	};
+	497B350A143C5CBC00DB9B73 /* ofxAudioEvent.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofxAudioEvent.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/addons/ofxSoundStream/src/ofxAudioEvent.h;
+		sourceTree = "<absolute>";
+	};
+	497B350B143C5CBC00DB9B73 /* ofxSoundStream.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofxSoundStream.cpp;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/addons/ofxSoundStream/src/ofxSoundStream.cpp;
+		sourceTree = "<absolute>";
+	};
+	497B350C143C5CBC00DB9B73 /* ofxSoundStream.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofxSoundStream.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/addons/ofxSoundStream/src/ofxSoundStream.h;
+		sourceTree = "<absolute>";
+	};
+	497B355D143C5DD200DB9B73 /* Chromagram.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = Chromagram.cpp;
+		path = "/Users/andrew/hg/realtime-btrack-analyser/chromagramm/Chromagram.cpp";
+		sourceTree = "<absolute>";
+	};
+	497B355E143C5DD200DB9B73 /* Chromagram.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Chromagram.h;
+		path = "/Users/andrew/hg/realtime-btrack-analyser/chromagramm/Chromagram.h";
+		sourceTree = "<absolute>";
+	};
+	497B358A143C5DD200DB9B73 /* AubioOnsetDetector.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = AubioOnsetDetector.cpp;
+		path = "/Users/andrew/hg/realtime-btrack-analyser/libs/AubioOnsetDetector.cpp";
+		sourceTree = "<absolute>";
+	};
+	497B3594143C5DD200DB9B73 /* BTrack_mod.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = BTrack_mod.cpp;
+		path = "/Users/andrew/hg/realtime-btrack-analyser/qm_btrack/BTrack_mod.cpp";
+		sourceTree = "<absolute>";
+	};
+	497B3595143C5DD200DB9B73 /* BTrack_mod.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = BTrack_mod.h;
+		path = "/Users/andrew/hg/realtime-btrack-analyser/qm_btrack/BTrack_mod.h";
+		sourceTree = "<absolute>";
+	};
+	497B35A1143C5DD200DB9B73 /* LiveAudioAnalysis.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = LiveAudioAnalysis.cpp;
+		path = "/Users/andrew/hg/realtime-btrack-analyser/src/LiveAudioAnalysis.cpp";
+		sourceTree = "<absolute>";
+	};
+	497B35A2143C5DD200DB9B73 /* LiveAudioAnalysis.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = LiveAudioAnalysis.h;
+		path = "/Users/andrew/hg/realtime-btrack-analyser/src/LiveAudioAnalysis.h";
+		sourceTree = "<absolute>";
+	};
+	497B35A4143C5DD200DB9B73 /* SoundFileLoader.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = SoundFileLoader.cpp;
+		path = "/Users/andrew/hg/realtime-btrack-analyser/src/SoundFileLoader.cpp";
+		sourceTree = "<absolute>";
+	};
+	497B35A5143C5DD200DB9B73 /* SoundFileLoader.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = SoundFileLoader.h;
+		path = "/Users/andrew/hg/realtime-btrack-analyser/src/SoundFileLoader.h";
+		sourceTree = "<absolute>";
+	};
+	497B35F9143C631A00DB9B73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497B3594143C5DD200DB9B73 /* BTrack_mod.cpp */;
+		name = "BTrack_mod.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	497B35FA143C631A00DB9B73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497B355E143C5DD200DB9B73 /* Chromagram.h */;
+		name = "Chromagram.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 658;
+		vrLoc = 481;
+	};
+	497B35FB143C631A00DB9B73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497B355D143C5DD200DB9B73 /* Chromagram.cpp */;
+		name = "Chromagram.cpp: 48";
+		rLen = 0;
+		rLoc = 1081;
+		rType = 0;
+		vrLen = 992;
+		vrLoc = 636;
+	};
+	497E5259147AA33900847BA2 /* iostream */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.h;
+		name = iostream;
+		path = "/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream";
+		sourceTree = "<absolute>";
+	};
+	49991B841441B8FF00A64A8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49991B851441B8FF00A64A8E /* RtAudio.h */;
+		name = "RtAudio.h: 413";
+		rLen = 64;
+		rLoc = 20400;
+		rType = 0;
+		vrLen = 2139;
+		vrLoc = 19297;
+	};
+	49991B851441B8FF00A64A8E /* RtAudio.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = RtAudio.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/rtaudio/include/RtAudio.h;
+		sourceTree = "<absolute>";
+	};
+	49991C2A1441C57C00A64A8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49C37C8E1441411B00737BE5 /* ofPASoundStream.h */;
+		name = "ofPASoundStream.h: 7";
+		rLen = 23;
+		rLoc = 92;
+		rType = 0;
+		vrLen = 1004;
+		vrLoc = 321;
+	};
+	49991C2B1441C57C00A64A8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4967C451144125DF002E5629 /* ofPASoundStream.cpp */;
+		name = "ofPASoundStream.cpp: 83";
+		rLen = 228;
+		rLoc = 2460;
+		rType = 0;
+		vrLen = 1526;
+		vrLoc = 1655;
+	};
+	49991CF71441D47900A64A8E /* ofBaseTypes.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofBaseTypes.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/types/ofBaseTypes.h;
+		sourceTree = "<absolute>";
+	};
+	49A1BD59147E6AB000D6D264 /* ofxPortaudioSoundStream.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofxPortaudioSoundStream.cpp;
+		path = /Users/andrew/GitHub/ofxPortaudioSoundstream/addons/ofxPortaudioSoundStream/ofxPortaudioSoundStream.cpp;
+		sourceTree = "<absolute>";
+	};
+	49A1BD5A147E6AB000D6D264 /* ofxPortaudioSoundStream.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofxPortaudioSoundStream.h;
+		path = /Users/andrew/GitHub/ofxPortaudioSoundstream/addons/ofxPortaudioSoundStream/ofxPortaudioSoundStream.h;
+		sourceTree = "<absolute>";
+	};
+	49A1BD80147E6AC800D6D264 /* testApp.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = testApp.h;
+		path = /Users/andrew/GitHub/ofxPortaudioSoundstream/src/testApp.h;
+		sourceTree = "<absolute>";
+	};
+	49A1BDDD147E727F00D6D264 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497E5259147AA33900847BA2 /* iostream */;
+		name = "iostream: 77";
+		rLen = 0;
+		rLoc = 2900;
+		rType = 0;
+		vrLen = 1227;
+		vrLoc = 1731;
+	};
+	49A1BDE0147E727F00D6D264 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497B350C143C5CBC00DB9B73 /* ofxSoundStream.h */;
+		name = "ofxSoundStream.h: 27";
+		rLen = 0;
+		rLoc = 598;
+		rType = 0;
+		vrLen = 1017;
+		vrLoc = 106;
+	};
+	49AA449914583C7A00CC8654 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4967C0361440FF66002E5629 /* testApp.h */;
+		name = "testApp.h: 11";
+		rLen = 0;
+		rLoc = 173;
+		rType = 0;
+		vrLen = 592;
+		vrLoc = 0;
+	};
+	49C0240E143E7EB20098CB70 /* ofEvents.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofEvents.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/events/ofEvents.h;
+		sourceTree = "<absolute>";
+	};
+	49C37C861441411B00737BE5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4967C02D1440FF66002E5629 /* OnsetDetectionFunction.h */;
+		name = "OnsetDetectionFunction.h: 9";
+		rLen = 0;
+		rLoc = 161;
+		rType = 0;
+		vrLen = 2090;
+		vrLoc = 0;
+	};
+	49C37C8E1441411B00737BE5 /* ofPASoundStream.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofPASoundStream.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/sound/ofPASoundStream.h;
+		sourceTree = "<absolute>";
+	};
+	49C3B2F71449B7C200878522 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4967C0321440FF66002E5629 /* LiveAudioAnalysis.cpp */;
+		name = "LiveAudioAnalysis.cpp: 118";
+		rLen = 0;
+		rLoc = 3188;
+		rType = 0;
+		vrLen = 1287;
+		vrLoc = 0;
+	};
+	49D1E7B214405E6D00E20138 /* ofEventUtils.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofEventUtils.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/events/ofEventUtils.h;
+		sourceTree = "<absolute>";
+	};
+	49E49AD4143C5B7E00C9F20C /* ofxPortaudioOnsetDetector */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ofxPortaudioOnsetDetector;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	49E49AE9143C5B8A00C9F20C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	49E49AEA143C5B8A00C9F20C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	49EC789B143E0C880078C0DB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497B35A5143C5DD200DB9B73 /* SoundFileLoader.h */;
+		name = "SoundFileLoader.h: 29";
+		rLen = 0;
+		rLoc = 598;
+		rType = 0;
+		vrLen = 699;
+		vrLoc = 0;
+	};
+	49EC789C143E0C880078C0DB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497B35A4143C5DD200DB9B73 /* SoundFileLoader.cpp */;
+		name = "SoundFileLoader.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 727;
+		vrLoc = 0;
+	};
+	49F1EFB3143F473B00F89F48 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49F1EFB4143F473B00F89F48 /* ofConstants.h */;
+		name = "ofConstants.h: 225";
+		rLen = 0;
+		rLoc = 6257;
+		rType = 0;
+		vrLen = 958;
+		vrLoc = 5805;
+	};
+	49F1EFB4143F473B00F89F48 /* ofConstants.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofConstants.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/utils/ofConstants.h;
+		sourceTree = "<absolute>";
+	};
+	49F1EFB6143F473B00F89F48 /* ofRtAudioSoundStream.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofRtAudioSoundStream.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/sound/ofRtAudioSoundStream.h;
+		sourceTree = "<absolute>";
+	};
+	49F1EFBA143F473B00F89F48 /* ofRtAudioSoundStream.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofRtAudioSoundStream.cpp;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/sound/ofRtAudioSoundStream.cpp;
+		sourceTree = "<absolute>";
+	};
+	49F66DC51486A1B300C8AD53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E3148692D1000BE8AC /* SoundFileLoader.cpp */;
+		name = "SoundFileLoader.cpp: 66";
+		rLen = 0;
+		rLoc = 1448;
+		rType = 0;
+		vrLen = 703;
+		vrLoc = 0;
+	};
+	49F66DC61486A1B300C8AD53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E4148692D1000BE8AC /* SoundFileLoader.h */;
+		name = "SoundFileLoader.h: 15";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 672;
+		vrLoc = 25;
+	};
+	49F66DC71486A1B300C8AD53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E5148692D1000BE8AC /* testApp.cpp */;
+		name = "testApp.cpp: 9";
+		rLen = 0;
+		rLoc = 139;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 0;
+	};
+	49F66DC81486A1B300C8AD53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E5148692D1000BE8AC /* testApp.cpp */;
+		name = "testApp.cpp: 89";
+		rLen = 0;
+		rLoc = 1933;
+		rType = 0;
+		vrLen = 1230;
+		vrLoc = 1566;
+	};
+	49F66DD81486A1F000C8AD53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4957D7E5148692D1000BE8AC /* testApp.cpp */;
+		name = "testApp.cpp: 243";
+		rLen = 0;
+		rLoc = 6105;
+		rType = 0;
+		vrLen = 632;
+		vrLoc = 5707;
+	};
+	49FB9ACE147E9C7800F4B020 /* OnsetDetectionFunction.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OnsetDetectionFunction.h;
+		path = "/Users/andrew/hg/qm-livemusiclab/Development/Max/MaxSDK-5.1.6/qm external code/qm.btrack~/OnsetDetectionFunction.h";
+		sourceTree = "<absolute>";
+	};
+	49FB9B65147EA02800F4B020 /* OnsetDetectionFunction.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = OnsetDetectionFunction.cpp;
+		path = /Users/andrew/GitHub/ofxBTrackAnalyser/qm_btrack/OnsetDetectionFunction.cpp;
+		sourceTree = "<absolute>";
+	};
+	49FB9B66147EA02800F4B020 /* OnsetDetectionFunction.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = OnsetDetectionFunction.h;
+		path = /Users/andrew/GitHub/ofxBTrackAnalyser/qm_btrack/OnsetDetectionFunction.h;
+		sourceTree = "<absolute>";
+	};
+	49FB9B8E147EA3AC00F4B020 /* main.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = main.cpp;
+		path = /Users/andrew/GitHub/ofxAubioOnsetDetection/src/main.cpp;
+		sourceTree = "<absolute>";
+	};
+	49FB9B90147EA3AC00F4B020 /* testApp.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = testApp.h;
+		path = /Users/andrew/GitHub/ofxAubioOnsetDetection/src/testApp.h;
+		sourceTree = "<absolute>";
+	};
+	49FB9B9D147EA47800F4B020 /* ofxAubioOnsetDetection.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofxAubioOnsetDetection.h;
+		path = /Users/andrew/GitHub/ofxAubioOnsetDetection/addons/ofxAubioOnsetDetection.h;
+		sourceTree = "<absolute>";
+	};
+	49FB9B9E147EA47800F4B020 /* ofxAubioOnsetDetection.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofxAubioOnsetDetection.cpp;
+		path = /Users/andrew/GitHub/ofxAubioOnsetDetection/addons/ofxAubioOnsetDetection.cpp;
+		sourceTree = "<absolute>";
+	};
+	49FB9BA0147EA50900F4B020 /* AubioOnsetDetector.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = AubioOnsetDetector.cpp;
+		path = /Users/andrew/GitHub/ofxAubioOnsetDetection/addons/AubioOnsetDetector.cpp;
+		sourceTree = "<absolute>";
+	};
+	49FB9BE0147EB45300F4B020 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9ACE147E9C7800F4B020 /* OnsetDetectionFunction.h */;
+		name = "OnsetDetectionFunction.h: 9";
+		rLen = 0;
+		rLoc = 99;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 0;
+	};
+	49FB9BE3147EB45300F4B020 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 497B350B143C5CBC00DB9B73 /* ofxSoundStream.cpp */;
+		name = "ofxSoundStream.cpp: 36";
+		rLen = 0;
+		rLoc = 1099;
+		rType = 0;
+		vrLen = 819;
+		vrLoc = 727;
+	};
+	49FB9BE8147EB45300F4B020 /* testApp.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = testApp.h;
+		path = "/Users/andrew/hg/aubio-onset-detector/aubioOnsetDetectorOFvisualiser/src/testApp.h";
+		sourceTree = "<absolute>";
+	};
+	49FB9BE9147EB45300F4B020 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9BEA147EB45300F4B020 /* aubioOnsetDetect~.cpp */;
+		name = "aubioOnsetDetect~.cpp: 94";
+		rLen = 0;
+		rLoc = 3304;
+		rType = 0;
+		vrLen = 669;
+		vrLoc = 0;
+	};
+	49FB9BEA147EB45300F4B020 /* aubioOnsetDetect~.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = "aubioOnsetDetect~.cpp";
+		path = "/Users/andrew/hg/aubio-onset-detector/Source/aubioOnsetDetect~.cpp";
+		sourceTree = "<absolute>";
+	};
+	49FB9BEB147EB45300F4B020 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49FB9BEC147EB45300F4B020 /* AubioOnsetDetector.cpp */;
+		name = "AubioOnsetDetector.cpp: 7";
+		rLen = 0;
+		rLoc = 157;
+		rType = 0;
+		vrLen = 1046;
+		vrLoc = 2043;
+	};
+	49FB9BEC147EB45300F4B020 /* AubioOnsetDetector.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = AubioOnsetDetector.cpp;
+		path = "/Users/andrew/hg/aubio-onset-detector/Source/AubioOnsetDetector.cpp";
+		sourceTree = "<absolute>";
+	};
+	49FB9BEE147EB45300F4B020 /* testApp.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = testApp.cpp;
+		path = "/Users/andrew/hg/aubio-onset-detector/aubioOnsetDetectorOFvisualiser/src/testApp.cpp";
+		sourceTree = "<absolute>";
+	};
+	49FB9CEE147EB73400F4B020 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49A1BD5A147E6AB000D6D264 /* ofxPortaudioSoundStream.h */;
+		name = "ofxPortaudioSoundStream.h: 104";
+		rLen = 0;
+		rLoc = 2662;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	49FB9D26147EB81A00F4B020 /* ofPolyline.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofPolyline.h;
+		path = /Users/andrew/Documents/work/programming/of_preRelease_v007_osx/libs/openFrameworks/graphics/ofPolyline.h;
+		sourceTree = "<absolute>";
+	};
+	49FE5EF4147E82F400A59DAB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49A1BD80147E6AC800D6D264 /* testApp.h */;
+		name = "testApp.h: 90";
+		rLen = 0;
+		rLoc = 1695;
+		rType = 0;
+		vrLen = 512;
+		vrLoc = 1047;
+	};
+	49FE5EF7147E82F400A59DAB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4EB691F138AFCF100A09F29 /* CoreOF.xcconfig */;
+		name = "CoreOF.xcconfig: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1908;
+		vrLoc = 0;
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 49E49AD4143C5B7E00C9F20C /* ofxPortaudioOnsetDetector */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* ofxPortaudioOnsetDetector */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* ofxPortaudioOnsetDetector */,
+		);
+		breakpoints = (
+			4957D82514869CDE000BE8AC /* testApp.cpp:270 */,
+		);
+		codeSenseManager = 49E49AEA143C5B8A00C9F20C /* Code sense */;
+		executables = (
+			49E49AD4143C5B7E00C9F20C /* ofxPortaudioOnsetDetector */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					905,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					919,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 344367041;
+			PBXWorkspaceStateSaveDate = 344367041;
+		};
+		perUserProjectItems = {
+			49073230147EB8F700257988 = 49073230147EB8F700257988 /* PBXTextBookmark */;
+			49073231147EB8F700257988 = 49073231147EB8F700257988 /* PBXTextBookmark */;
+			490732A0147EBCF700257988 = 490732A0147EBCF700257988 /* PBXTextBookmark */;
+			490732B0147EC15800257988 = 490732B0147EC15800257988 /* PBXTextBookmark */;
+			490732B3147EC15800257988 = 490732B3147EC15800257988 /* PBXTextBookmark */;
+			490732CB147EC33100257988 = 490732CB147EC33100257988 /* PBXTextBookmark */;
+			490732CC147EC33100257988 = 490732CC147EC33100257988 /* PBXTextBookmark */;
+			490732F0147EC53C00257988 = 490732F0147EC53C00257988 /* PBXTextBookmark */;
+			49073370147EEE4900257988 = 49073370147EEE4900257988 /* PBXTextBookmark */;
+			490733F9147EFC6700257988 = 490733F9147EFC6700257988 /* PBXTextBookmark */;
+			4907C5E3144AF9AF00389066 = 4907C5E3144AF9AF00389066 /* PBXTextBookmark */;
+			4907C5E4144AF9AF00389066 = 4907C5E4144AF9AF00389066 /* PBXTextBookmark */;
+			491FCBC41448F18600321E3C = 491FCBC41448F18600321E3C /* PBXTextBookmark */;
+			491FCBC51448F18600321E3C = 491FCBC51448F18600321E3C /* PBXTextBookmark */;
+			491FCBC71448F18600321E3C = 491FCBC71448F18600321E3C /* PBXTextBookmark */;
+			49421ADA143E2E8B00DBDFAA = 49421ADA143E2E8B00DBDFAA /* PBXTextBookmark */;
+			49421ADE143E2E8B00DBDFAA = 49421ADE143E2E8B00DBDFAA /* PBXTextBookmark */;
+			4948645F143C765E006262AA = 4948645F143C765E006262AA /* PBXTextBookmark */;
+			494BCC1214435D7C003E97B6 = 494BCC1214435D7C003E97B6 /* PBXTextBookmark */;
+			494BCC1414435D7C003E97B6 = 494BCC1414435D7C003E97B6 /* PBXTextBookmark */;
+			494BCC1514435D7C003E97B6 = 494BCC1514435D7C003E97B6 /* PBXTextBookmark */;
+			494BCC1614435D7C003E97B6 = 494BCC1614435D7C003E97B6 /* PBXTextBookmark */;
+			494BCC2E14435EBE003E97B6 = 494BCC2E14435EBE003E97B6 /* PBXTextBookmark */;
+			4957D7681486910C000BE8AC = 4957D7681486910C000BE8AC /* PBXTextBookmark */;
+			4957D7691486910C000BE8AC = 4957D7691486910C000BE8AC /* PBXTextBookmark */;
+			4957D76A1486910C000BE8AC = 4957D76A1486910C000BE8AC /* PBXTextBookmark */;
+			4957D80D148699B9000BE8AC = 4957D80D148699B9000BE8AC /* PBXTextBookmark */;
+			4957D80F148699B9000BE8AC = 4957D80F148699B9000BE8AC /* PBXTextBookmark */;
+			4957D812148699B9000BE8AC = 4957D812148699B9000BE8AC /* PBXTextBookmark */;
+			4957D82114869C86000BE8AC = 4957D82114869C86000BE8AC /* PBXTextBookmark */;
+			4957D83314869D5D000BE8AC = 4957D83314869D5D000BE8AC /* PBXTextBookmark */;
+			4957D86614869F5A000BE8AC = 4957D86614869F5A000BE8AC /* PBXTextBookmark */;
+			4957D86714869F5A000BE8AC = 4957D86714869F5A000BE8AC /* PBXTextBookmark */;
+			4957D86814869F5A000BE8AC = 4957D86814869F5A000BE8AC /* PBXTextBookmark */;
+			4957D87014869FAF000BE8AC = 4957D87014869FAF000BE8AC /* PBXTextBookmark */;
+			495A55F3143E915D00259FEA = 495A55F3143E915D00259FEA /* PBXTextBookmark */;
+			495D3AEF143E3355009EC712 = 495D3AEF143E3355009EC712 /* PBXTextBookmark */;
+			4967C437144125DF002E5629 = 4967C437144125DF002E5629 /* PBXTextBookmark */;
+			4967C438144125DF002E5629 = 4967C438144125DF002E5629 /* PBXTextBookmark */;
+			4967C43A144125DF002E5629 = 4967C43A144125DF002E5629 /* PBXTextBookmark */;
+			4967C43B144125DF002E5629 = 4967C43B144125DF002E5629 /* PBXTextBookmark */;
+			4967C43C144125DF002E5629 = 4967C43C144125DF002E5629 /* PBXTextBookmark */;
+			4967C47E144127D0002E5629 = 4967C47E144127D0002E5629 /* PBXTextBookmark */;
+			497B35F9143C631A00DB9B73 = 497B35F9143C631A00DB9B73 /* PBXTextBookmark */;
+			497B35FA143C631A00DB9B73 = 497B35FA143C631A00DB9B73 /* PBXTextBookmark */;
+			497B35FB143C631A00DB9B73 = 497B35FB143C631A00DB9B73 /* PBXTextBookmark */;
+			49991B841441B8FF00A64A8E = 49991B841441B8FF00A64A8E /* PBXTextBookmark */;
+			49991C2A1441C57C00A64A8E = 49991C2A1441C57C00A64A8E /* PBXTextBookmark */;
+			49991C2B1441C57C00A64A8E = 49991C2B1441C57C00A64A8E /* PBXTextBookmark */;
+			49A1BDDD147E727F00D6D264 = 49A1BDDD147E727F00D6D264 /* PBXTextBookmark */;
+			49A1BDE0147E727F00D6D264 = 49A1BDE0147E727F00D6D264 /* PBXTextBookmark */;
+			49AA449914583C7A00CC8654 = 49AA449914583C7A00CC8654 /* PBXTextBookmark */;
+			49C37C861441411B00737BE5 = 49C37C861441411B00737BE5 /* PBXTextBookmark */;
+			49C3B2F71449B7C200878522 = 49C3B2F71449B7C200878522 /* PBXTextBookmark */;
+			49EC789B143E0C880078C0DB = 49EC789B143E0C880078C0DB /* PBXTextBookmark */;
+			49EC789C143E0C880078C0DB = 49EC789C143E0C880078C0DB /* PBXTextBookmark */;
+			49F1EFB3143F473B00F89F48 = 49F1EFB3143F473B00F89F48 /* PBXTextBookmark */;
+			49F66DC51486A1B300C8AD53 /* PBXTextBookmark */ = 49F66DC51486A1B300C8AD53 /* PBXTextBookmark */;
+			49F66DC61486A1B300C8AD53 /* PBXTextBookmark */ = 49F66DC61486A1B300C8AD53 /* PBXTextBookmark */;
+			49F66DC71486A1B300C8AD53 /* PBXTextBookmark */ = 49F66DC71486A1B300C8AD53 /* PBXTextBookmark */;
+			49F66DC81486A1B300C8AD53 /* PBXTextBookmark */ = 49F66DC81486A1B300C8AD53 /* PBXTextBookmark */;
+			49F66DD81486A1F000C8AD53 /* PBXTextBookmark */ = 49F66DD81486A1F000C8AD53 /* PBXTextBookmark */;
+			49FB9BE0147EB45300F4B020 = 49FB9BE0147EB45300F4B020 /* PBXTextBookmark */;
+			49FB9BE3147EB45300F4B020 = 49FB9BE3147EB45300F4B020 /* PBXTextBookmark */;
+			49FB9BE9147EB45300F4B020 = 49FB9BE9147EB45300F4B020 /* PBXTextBookmark */;
+			49FB9BEB147EB45300F4B020 = 49FB9BEB147EB45300F4B020 /* PBXTextBookmark */;
+			49FB9CEE147EB73400F4B020 = 49FB9CEE147EB73400F4B020 /* PBXTextBookmark */;
+			49FE5EF4147E82F400A59DAB = 49FE5EF4147E82F400A59DAB /* PBXTextBookmark */;
+			49FE5EF7147E82F400A59DAB = 49FE5EF7147E82F400A59DAB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 49E49AE9143C5B8A00C9F20C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* ofxPortaudioOnsetDetector */ = {
+		activeExec = 0;
+		executables = (
+			49E49AD4143C5B7E00C9F20C /* ofxPortaudioOnsetDetector */,
+		);
+	};
+	E4EB691F138AFCF100A09F29 /* CoreOF.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1660, 496}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1908}";
+			sepNavWindowFrame = "{{15, 71}, {1555, 952}}";
+		};
+	};
+	E4EB6923138AFD0F00A09F29 /* Project.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1137, 570}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 344}";
+			sepNavWindowFrame = "{{15, 71}, {1555, 952}}";
+		};
+	};
+}
