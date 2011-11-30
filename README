@@ -1,0 +1,6 @@
+audio file loader
+
+uses libsndfile
+
+that probably needs to be compiled (automatically goes in users->local->lib i think)
+
