@@ -1,5 +1,5 @@
 /*
- *  SoundFileLoader.h
+ *  ofxSoundFileLoader.h
  *  audioFileLoaderSVN1
  *
  *  Created by Andrew on 04/09/2011.
@@ -14,15 +14,17 @@
 #include "ofMain.h"
 #include "sndfile.h"
 #include "AudioFile.h"
+#include "ofxAubioOnsetDetection.h"
 
 #define FRAMESIZE 512
 
 
 
-class SoundFileLoader{
+class ofxSoundFileLoader{
 	
 public:
-	SoundFileLoader();
+	ofxSoundFileLoader();
+	~ofxSoundFileLoader();
 	float frame[FRAMESIZE]; 
 	
 	void loadLibSndFile(const char *infilename);
@@ -33,7 +35,9 @@ public:
 
 	AudioFile audioHolder;
 	
-	int totalNumberOfFrames;
+	ofxAubioOnsetDetection* onsetDetect;
+	
+	int totalNumberOfSamples;
 	
 	void readAudio();
 	

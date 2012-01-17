@@ -1,5 +1,5 @@
 /*
- *  SoundFileLoader.cpp
+ *  ofxSoundFileLoader.cpp
  *  audioFileLoaderSVN1
  *
  *  Created by Andrew on 04/09/2011.
@@ -7,16 +7,21 @@
  *
  */
 
-#include "SoundFileLoader.h"
+#include "ofxSoundFileLoader.h"
 
 
-SoundFileLoader::SoundFileLoader(){
+ofxSoundFileLoader::ofxSoundFileLoader(){
 	sfinfo.format = 0;
-	
+//	onsetDetect = new ofxAubioOnsetDetection();
 	
 }
 
-void SoundFileLoader::loadLibSndFile(const char *infilename){
+ofxSoundFileLoader::~ofxSoundFileLoader(){
+//	delete onsetDetect ;
+	
+}
+
+void ofxSoundFileLoader::loadLibSndFile(const char *infilename){
 	
 	if (!sf_close(infile)){
 		printf("closed sndfile okay \n");
@@ -43,7 +48,7 @@ void SoundFileLoader::loadLibSndFile(const char *infilename){
 
 
 
-void SoundFileLoader::readAudio(){
+void ofxSoundFileLoader::readAudio(){
 	
 	
 		// HERE IS THE CLASSIC LOADING FILE CODE
@@ -74,7 +79,7 @@ void SoundFileLoader::readAudio(){
 		}
 		
 		//could call this here
-	//	someAudioProcess->processframe(frame);
+	//	onsetDetect->processFrame(&frame[0], blocksize);
 
 		
 	}//end readcount

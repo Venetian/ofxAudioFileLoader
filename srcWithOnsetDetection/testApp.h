@@ -79,9 +79,9 @@ class testApp : public ofBaseApp{
 	
 		float screenWidth, screenHeight;
 	
-	//	float 	pan;
+		float 	pan;
 		int		sampleRate;
-	//	bool 	bNoise;
+		bool 	bNoise;
 		float 	volume;
 
 		float 	* lAudio;
