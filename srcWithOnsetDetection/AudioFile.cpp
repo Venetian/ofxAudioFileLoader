@@ -14,10 +14,12 @@ const double samplingFrequency = 44100.0;
 AudioFile::AudioFile(){
 	audioScaleSamples = 44100.;
 	playPosition = 0;
+	
 }
 
 void AudioFile::drawAudioVectorMillis(double startTimeMillis, double endTimeMillis){
 	
+	ofBackground(255);
 	double startTimeSamples = startTimeMillis * samplingFrequency / 1000.0;
 	double endTimeSamples = endTimeMillis * samplingFrequency / 1000.0;
 	double screenHeight = ofGetHeight() ;
@@ -43,12 +45,17 @@ void AudioFile::drawAudioVectorMillis(double startTimeMillis, double endTimeMill
 	}
 	ofDrawBitmapString(samplesString, 20,20);	
 	
+	ofSetColor(100,100,100);
+	ofLine(screenWidth/2, 0, screenWidth/2, screenHeight);
+	
+	
 }
 
 
 
 void AudioFile::drawAudioVectorSamples(double startTimeSample, double endTimeSample){
 	
+	ofBackground(255);
 	screenHeight = ofGetHeight() ;
 	double screenWidth = ofGetWidth(); 
 	
@@ -96,8 +103,6 @@ void AudioFile::drawAudioVectorSamples(double startTimeSample, double endTimeSam
 	ofDrawBitmapString(textString, 20, 20);
 	ofDrawBitmapString(samplesString, 20, 60);
 
-	
-	
 	ofSetColor(0,0,255);
 	ofLine(0, halfHeight, screenWidth, halfHeight);
 	

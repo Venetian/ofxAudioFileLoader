@@ -63,15 +63,13 @@ void testApp::update(){
 
 //--------------------------------------------------------------
 void testApp::draw(){
-	if (screenToDraw == 0){
+
 	fileLoader.audioHolder.drawAudioVectorSamples(fileLoader.audioHolder.playPosition - fileLoader.audioHolder.audioScaleSamples*0.5, fileLoader.audioHolder.playPosition+fileLoader.audioHolder.audioScaleSamples*0.5);
 	ofSetColor(100,100,100);
 	ofLine(screenWidth/2, 0, screenWidth/2, screenHeight);
 	ofDrawBitmapString(soundFileName,80,480);
-	}
-	else{
-	//fileLoader.onsetDetect->drawOnsetDetection();
-	}
+	
+
 	
 		
 }

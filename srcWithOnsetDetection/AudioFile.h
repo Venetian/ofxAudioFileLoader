@@ -34,7 +34,6 @@ public:
 	DoubleVector audioVector;
 	DoubleMatrix audioMatrix;
 	
-	
 	double screenHeight;
 	int length;
 	double audioScaleSamples;

@@ -1,6 +1,16 @@
-audio file loader
+audio file loader - this loads in an audio file - aiff, wav etc - and iterates through the sam,pals, stroing them as a vector in the class AudioFile. This has routines to draw the vector between various points, specified either in milliseconds or in sample frames.
 
-uses libsndfile
+NB this is called ofxSoundFileLoader in the actual project
 
-that probably needs to be compiled (automatically goes in users->local->lib i think)
+The add-on uses libsndfile. That probably needs to be compiled (automatically goes in users->local->lib 
+i think)
+
+
+DFEPENDENCIES
+
+AubioFullOSXUni - included
+
+for libsndfile (that reads in samples)
+
+you could download and install instead from meganerd.
 

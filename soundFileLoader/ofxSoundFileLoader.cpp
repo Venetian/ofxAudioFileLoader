@@ -23,9 +23,9 @@ ofxSoundFileLoader::~ofxSoundFileLoader(){
 
 void ofxSoundFileLoader::loadLibSndFile(const char *infilename){
 	
-	if (!sf_close(infile)){
-		printf("closed sndfile okay \n");
-	}
+//	if (!sf_close(infile)){
+//		printf("closed sndfile okay \n");
+//	}
 	
 	// Open Input File with lib snd file
     if (! (infile = sf_open (infilename, SFM_READ, &sfinfo)))
@@ -50,8 +50,9 @@ void ofxSoundFileLoader::loadLibSndFile(const char *infilename){
 
 void ofxSoundFileLoader::readAudio(){
 	
+	audioHolder.audioVector.clear();
 	
-		// HERE IS THE CLASSIC LOADING FILE CODE
+	// HERE IS THE CLASSIC LOADING FILE CODE
 	//DEALS WITH MORE THAN MONO
 	int channels = sfinfo.channels;
 	int blocksize = FRAMESIZE;
